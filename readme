@@ -9,10 +9,10 @@ _________ .____       _____    _________ _________.____________     _____  .____
 This repo is (or will be) full of classic games coded in c and run entirely inside the terminal (windows only).
 Some of the games published here need more polishing and some fixes but the basic mechanics of the games are functionnal.
 
-List of the games made so far (3):
+List of the games made so far (2):
 Snake
 Pong
-Tetris
+Tetris(coming soon)
 
 
 DISCLAIMER: No AI's were harmed (used) in the making of this project(not for writing at least)!!!
