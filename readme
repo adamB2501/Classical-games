@@ -1,0 +1,18 @@
+_________ .____       _____    _________ _________.____________     _____  .____        ________    _____      _____  ___________ _________
+\_   ___ \|    |     /  _  \  /   _____//   _____/|   \_   ___ \   /  _  \ |    |      /  _____/   /  _  \    /     \ \_   _____//   _____/
+/    \  \/|    |    /  /_\  \ \_____  \ \_____  \ |   /    \  \/  /  /_\  \|    |     /   \  ___  /  /_\  \  /  \ /  \ |    __)_ \_____  \ 
+\     \___|    |___/    |    \/        \/        \|   \     \____/    |    \    |___  \    \_\  \/    |    \/    Y    \|        \/        \
+ \______  /_______ \____|__  /_______  /_______  /|___|\______  /\____|__  /_______ \  \______  /\____|__  /\____|__  /_______  /_______  /
+        \/        \/       \/        \/        \/             \/         \/        \/         \/         \/         \/        \/        \/ 
+
+
+This repo is (or will be) full of classic games coded in c and run entirely inside the terminal (windows only).
+Some of the games published here need more polishing and some fixes but the basic mechanics of the games are functionnal.
+
+List of the games made so far (3):
+Snake
+Pong
+Tetris
+
+
+DISCLAIMER: No AI's were harmed (used) in the making of this project(not for writing at least)!!!
